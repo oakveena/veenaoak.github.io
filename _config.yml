@@ -1,1 +1,3 @@
-<html>A project to start.. </html>
+name: Veena Oak, Engineer
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
